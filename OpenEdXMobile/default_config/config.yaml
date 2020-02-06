@@ -1,4 +1,5 @@
-API_HOST_URL: 'http://192.168.1.103:8000/api/mobile/v0.5/' # localhost is 10.0.2.2 in Android
+
+API_HOST_URL: 'http://10.0.2.2:8000' # localhost is 10.0.2.2 in Android
 ENVIRONMENT_DISPLAY_NAME: 'Localhost'
 PLATFORM_NAME: 'Your platform name here'
 PLATFORM_DESTINATION_NAME: 'example.com'
